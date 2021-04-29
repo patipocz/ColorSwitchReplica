@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 84229b87b986c1942ba4b802a31013d8
+timeCreated: 1578675132
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Excalibur Nouveau
+  fontNames:
+  - Excalibur Nouveau
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
